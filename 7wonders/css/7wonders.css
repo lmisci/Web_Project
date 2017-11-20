@@ -1,0 +1,65 @@
+/*css for whole project (all eight pages)*/
+.home{
+  padding: 50px;
+  background-color: #03113E;
+  color: white;
+  text-align:center;
+}
+.china{
+  padding: 50px;
+  background-color: #B81111;
+  text-align:center;
+  color: white;
+}
+a {
+  color: white;
+}
+.petra{
+  padding:50px;
+  background-color: #02C0A9;
+  text-align:center;
+}
+.rome{
+  padding:50px;
+  background-color: #6C0A00;
+  color: white;
+}
+.itza{
+  padding: 50px;
+  background-color: #A0F600;
+  color: black;
+}
+body{
+  background-color: grey;
+}
+.machu{
+  padding:50px;
+  background-color: slateblue;
+  color:white;
+  text-align:center;
+}
+.taj{
+  padding: 50px;
+  background-color: #D3AF10;
+  color: black;
+  text-align:center;
+}
+.redeem{
+  padding: 50px;
+  background-color: #F08080;
+  color:white;
+}
+p{
+  padding: 10px 25% 10px 25%;
+}
+.link{
+  padding: 30px;
+  background-color: black;
+}
+.info{
+  background-color: pink;
+  padding: 10px;
+}
+img{
+  border: 10px solid #000000;
+}
